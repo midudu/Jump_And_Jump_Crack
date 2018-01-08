@@ -1,3 +1,7 @@
+#####################
+    final.py
+#####################
+
 This python script is used to crack a popular WeChat game -- Jump And Jump
 
 To make the program run successfully, you need:
@@ -15,3 +19,12 @@ the phone screen)
 4 let the mouse point to the start position, and press 'A'-Key on the keyboard;
 then let the mouse point to the destination, and press 'A'-Key again;
 5 Continue doing the 4th procedure
+
+
+
+
+######################
+     auto_opencv
+######################
+
+Similar operations to the last part, but use opencv to detect the coordinates instead of human eyes and hands 
